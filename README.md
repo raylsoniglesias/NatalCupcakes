@@ -7,6 +7,7 @@ Projeto Integrador - Cruzeiro Sul Virtual
 Informações do projeto
 
 - **Link da Solução em Funcionamento:** http://187.61.235.102/store
+-  acesso ao video --- https://drive.google.com/file/d/1G7faa3Fn3kznRIZtFPyMIg7-ZupEYU0A/view?usp=drive_link
 - **Usuário**: `joao@hotmail.com` / **Senha**: `12345678`
 - **Linguagem Back-end**: Golang
 - **Banco de Dados**: Sqlite3 (usando gorm – Golang ORM)
